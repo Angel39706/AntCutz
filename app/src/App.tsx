@@ -1,20 +1,22 @@
 import React from 'react';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import Navbar from './Navbar';
-import HomePage from './HomePage';
-import ServicesPage from './ServicesPage';
+import Navbar from './components/Navbar';
+import HomePage from './components/Home';
+import GalleryPage from './components/Gallery';
+
 
 const App: React.FC = () => {
   return (
-    <Router>
+    <>
       <Navbar />
       <div className="pt-16">
-        <Routes>
-          <Route path="/" element={<HomePage />} />
-          <Route path="/services" element={<ServicesPage />} />
-        </Routes>
+        <section id="home">
+          <HomePage />
+        </section>
+        <section id="gallery">
+          <GalleryPage />
+        </section>
       </div>
-    </Router>
+    </>
   );
 };
 
