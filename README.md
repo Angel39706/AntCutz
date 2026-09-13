@@ -1,4 +1,6 @@
-# AntCutz - 🚧 **Status:** In active development
+# AntCutz - Haircut Booking Web App
+
+ 🚧 **Status:** In active development
 
 A full-stack web application for a barbershop that lets clients book appointments, leave reviews, track their appointment history, and browse a gallery of past haircuts.
 
@@ -19,4 +21,7 @@ A full-stack web application for a barbershop that lets clients book appointment
 - Docker for containerized local dev
 
 ### Mockup
+<img src="https://github.com/Angel39706/AntCutz/blob/main/Mockup/HomePage.png"/>
+<img src="https://github.com/Angel39706/AntCutz/blob/main/Mockup/GalleryPage.png"/>
+<img src="https://github.com/Angel39706/AntCutz/blob/main/Mockup/AppointmentPage.png/>
 
