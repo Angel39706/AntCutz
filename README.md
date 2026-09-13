@@ -23,5 +23,5 @@ A full-stack web application for a barbershop that lets clients book appointment
 ### Mockup
 <img src="https://github.com/Angel39706/AntCutz/blob/main/Mockup/HomePage.png"/>
 <img src="https://github.com/Angel39706/AntCutz/blob/main/Mockup/GalleryPage.png"/>
-<img src="https://github.com/Angel39706/AntCutz/blob/main/Mockup/AppointmentPage.png/>
+<img src="https://github.com/Angel39706/AntCutz/blob/main/Mockup/AppointmentPage.png"/>
 
