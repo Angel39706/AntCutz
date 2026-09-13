@@ -4,7 +4,7 @@ import profileImg from '../../images/profile.png';
 const navLinks = [
   { name: 'Home', href: '#home' },
   { name: 'Gallery', href: '#gallery' },
-  { name: 'Appointment', href: '#appointment' },
+  { name: 'Appointment', href: '#calendar' },
   { name: 'Contact', href: '#contact' },
 ];
 
